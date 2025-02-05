@@ -1,0 +1,1 @@
+This was initally made to monitor the Switch Online N64 controller stock because I really wanted one and I thought they were going to go out of stock instantly to the point I bought 2. Anyways this monitors a specific element via an XPath in a website looking for "out" "in" & "stock" text in the specified element.
